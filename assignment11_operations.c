@@ -17,11 +17,11 @@ void main()
     }
     if(c==2)
     {
-        printf("It is a prime number.");
+        printf("\nIt is a prime number.");
     }
     else
     {
-       printf("It is not a prime number.");
+       printf("\nIt is not a prime number.");
     }
 
     for(int i=1;i<=n;i++)

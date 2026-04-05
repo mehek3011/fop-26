@@ -10,6 +10,7 @@ void main() {
     printf("Enter a number: ");
     scanf("%d",&n);
     printf("%d",fact(n));
+    printf("\nFactorial using loop:");
     for(i=1;i<=n;i++){
         f=f*i;
     }
